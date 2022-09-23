@@ -1,0 +1,12 @@
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\bin\Debug\ModernPentathlonOVR.exe.config
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\bin\Debug\ModernPentathlonOVR.exe
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\bin\Debug\ModernPentathlonOVR.pdb
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.csprojResolveAssemblyReference.cache
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.MainForm.resources
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.Properties.Resources.resources
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.csproj.GenerateResource.Cache
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.exe
+D:\NT_WorkTools_Ourself\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.pdb
+D:\NewTiming\Code\ModernPentathlonOVR\ModernPentathlonOVR\bin\Debug\ModernPentathlonOVR.exe.config
+D:\NewTiming\Code\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.exe
+D:\NewTiming\Code\ModernPentathlonOVR\ModernPentathlonOVR\obj\Debug\ModernPentathlonOVR.pdb
