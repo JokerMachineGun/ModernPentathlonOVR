@@ -39,7 +39,10 @@ namespace ModernPentathlonOVR
             MessageBox.Show("现在进入游泳环节");
         }
 
-        
+        public void testshow()
+        {
+            MessageBox.Show("试一下GitHub是否用更改");
+        }
 
 
     }
