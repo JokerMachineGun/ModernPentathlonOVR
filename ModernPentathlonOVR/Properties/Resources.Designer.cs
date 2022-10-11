@@ -63,9 +63,39 @@ namespace ModernPentathlonOVR.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap FencingLogo {
+            get {
+                object obj = ResourceManager.GetObject("FencingLogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap HorsemanshipLogo {
+            get {
+                object obj = ResourceManager.GetObject("HorsemanshipLogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap MainBG {
             get {
                 object obj = ResourceManager.GetObject("MainBG", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap SwimingLogo {
+            get {
+                object obj = ResourceManager.GetObject("SwimingLogo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
